@@ -91,3 +91,6 @@ function highernumber(number){
     }
 
     console.log(propertyAndValue('Bob',20)) 
+
+
+    console.log()
